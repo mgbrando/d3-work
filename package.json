@@ -1,0 +1,22 @@
+{
+  "name": "d3-project-template",
+  "version": "0.1.0",
+  "description": "Ready to go d3 data visualization project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["data visualization", "d3"],
+  "author": "Matthew Brando",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgbrando/d3-work.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "d3": "4.x"
+  },
+  "devDependencies": {
+    "uglify-js": "2.x"
+  }
+}
